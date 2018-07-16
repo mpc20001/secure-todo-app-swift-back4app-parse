@@ -1,0 +1,20 @@
+PODS:
+  - Bolts/Tasks (1.9.0)
+  - JHSpinner (0.2.1)
+  - Parse (1.16.0):
+    - Parse/Core (= 1.16.0)
+  - Parse/Core (1.16.0):
+    - Bolts/Tasks (~> 1.9)
+
+DEPENDENCIES:
+  - JHSpinner
+  - Parse
+
+SPEC CHECKSUMS:
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  JHSpinner: bf7cc91a7e0ccad6336d2b0a3429dd34e7325e65
+  Parse: 5b36dc2c2f0a2fd82a257ae018bc3d68cf2c24e7
+
+PODFILE CHECKSUM: 83c541f683e927b69b966f2edea0891413ff5372
+
+COCOAPODS: 1.4.0
